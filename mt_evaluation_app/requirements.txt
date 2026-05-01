@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+transformers>=4.35.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+nltk>=3.8.0
+jieba>=0.42.1
+protobuf>=3.20.0
